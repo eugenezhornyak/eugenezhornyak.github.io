@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Async in C#"
+title: "Асинхронность в C#"
 date:   2022-03-06
 last_modified_at: 2022-03-06
 categories: [csharp]

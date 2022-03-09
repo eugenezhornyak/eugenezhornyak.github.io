@@ -7,3 +7,5 @@ title: About
 Привет, меня зовут Жорняк Евгений. Мне 21 год и я C# разработчик живущий в Праге.
 
 Hello, my name is Zhorniak Yevhenii. I am 21 years old, C# developer currently located in Praha.
+
+Email: eugenezhornyak@gmail.com

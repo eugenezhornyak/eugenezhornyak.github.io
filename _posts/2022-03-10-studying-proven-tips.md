@@ -3,7 +3,7 @@ layout: post
 title: "Как учиться эффективно"
 date:   2022-03-10
 last_modified_at: 2022-03-10
-categories: [neurobiology]
+categories: [neurobiology, summary]
 ---
 
 Этот пост по сути краткий конспект этого [видео](https://www.youtube.com/watch?v=FARXrLsBNJY)
